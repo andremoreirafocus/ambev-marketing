@@ -138,41 +138,31 @@ Esta é a hipótese mais recente, mas monitorada de perto por bares e restaurant
 
 **Efeito colateral no varejo:** Médicos e pacientes relatam que esses remédios geram uma repulsa química ao álcool e reduzem drasticamente a tolerância física à bebida. Como milhões de brasileiros da classe média e alta (os maiores consumidores em valor) adotaram esses tratamentos, o reflexo no volume total de bebidas consumidas nas mesas de bares foi imediato.
 
-Referências adicionais:
+## Referências adicionais:
 
-www.gov.br
+1. **www.gov.br** — [Álcool na Política sobre Drogas — Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/assuntos/sua-protecao/politicas-sobre-drogas/obid/alcool)
 
-Álcool na Política sobre Drogas — Ministério da Justiça e Segurança Pública
+   Sep 24, 2025 — É possível reduzir o consumo nocivo de álcool (e suas consequências perversas para a saúde da população) por meio de políticas de preço e taxação de bebidas alc...
 
-Sep 24, 2025 — É possível reduzir o consumo nocivo de álcool (e suas consequências perversas para a saúde da população) por meio de políticas de preço e taxação de bebidas alc...
+2. **YouTube·Bruno Perini - Você MAIS Rico** — [A GERAÇÃO Z VAI QUEBRAR A INDÚSTRIA DO ÁLCOOL?](https://www.youtube.com/watch?v=ZwRvQlDAOwY)
 
-YouTube·Bruno Perini - Você MAIS Rico
+   Feb 26, 2026 — A GERAÇÃO Z VAI QUEBRAR A INDÚSTRIA DO ÁLCOOL? imagina o mercado bilionário. descobrindo da noite pro dia que o cliente do futuro. simplesmente não quer o produ...
 
-A GERAÇÃO Z VAI QUEBRAR A INDÚSTRIA DO ÁLCOOL?
+   11:54
 
-Feb 26, 2026 — A GERAÇÃO Z VAI QUEBRAR A INDÚSTRIA DO ÁLCOOL? imagina o mercado bilionário. descobrindo da noite pro dia que o cliente do futuro. simplesmente não quer o produ...
+3. **YouTube·g1** — [Estudo mostra que consumo de álcool diminuiu de modo geral e ainda mais ...](https://www.youtube.com/watch?v=e_zD5toX_QQ)
 
-11:54
+   Feb 20, 2026 — Estudo mostra que consumo de álcool diminuiu de modo geral e ainda mais entre os jovens #bemestar hoje é o Dia. Nacional de combate às drogas e ao alcoolismo e ...
 
-YouTube·g1
+   3:10
 
-Estudo mostra que consumo de álcool diminuiu de modo geral e ainda mais ...
+4. **CartaCapital** — [O Brasil bebe menos – e a indústria tenta driblar a queda - Carta Capital](https://www.cartacapital.com.br/blogs/fora-da-faria/o-brasil-bebe-menos-e-a-industria-tenta-driblar-a-queda/)
 
-Feb 20, 2026 — Estudo mostra que consumo de álcool diminuiu de modo geral e ainda mais entre os jovens #bemestar hoje é o Dia. Nacional de combate às drogas e ao alcoolismo e ...
+   May 12, 2025 — Os dados indicam que 51% dizem consumir álcool contra 41% que dizem não consumir. E mais, entre os que consomem, 53% dizem estar diminuindo o consumo. Um dado q...
 
-3:10
+5. **YouTube·Gaúcha** — [Por que o Brasil está BEBENDO MENOS: QUEDA no consumo de ÁLCOOL entre ...](https://www.youtube.com/watch?v=SRgdYSOX6OI)
 
-CartaCapital
-
-O Brasil bebe menos – e a indústria tenta driblar a queda - Carta Capital
-
-May 12, 2025 — Os dados indicam que 51% dizem consumir álcool contra 41% que dizem não consumir. E mais, entre os que consomem, 53% dizem estar diminuindo o consumo. Um dado q...
-
-YouTube·Gaúcha
-
-Por que o Brasil está BEBENDO MENOS: QUEDA no consumo de ÁLCOOL entre ...
-
-Jan 23, 2026 — Por que o Brasil está BEBENDO MENOS: QUEDA no consumo de ÁLCOOL entre jovens | Conversas Cruzadas o que que vocês têm notado disso essa esse dado dessa pesquisa...
+   Jan 23, 2026 — Por que o Brasil está BEBENDO MENOS: QUEDA no consumo de ÁLCOOL entre jovens | Conversas Cruzadas o que que vocês têm notado disso essa esse dado dessa pesquisa...
 
 > Prompt: e o crescimento do contingente de pessoas que se declaram evangelicas não pode ter relação com essa questão de redução do consumo de bebida alcoólica?
 
