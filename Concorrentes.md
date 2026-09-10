@@ -4,7 +4,8 @@ Prompt:  Leia todos os arquivos md. Crie um texto de apoio uma especie de index 
 # Concorrentes da Ambev: guia de leitura
 
 Este índice organiza a análise da concorrência em três níveis, do mercado
-mais amplo ao segmento central do projeto: cervejas sem álcool. Os arquivos
+mais amplo ao segmento central do projeto: cervejas com álcool e menor teor
+calórico, com foco na Michelob Ultra. Os arquivos
 se complementam e ajudam a relacionar o contexto da Ambev às propostas de
 divulgação, ampliação da oferta, experimentação e recompra.
 
@@ -18,8 +19,8 @@ divulgação, ampliação da oferta, experimentação e recompra.
 
    Neste nível, analisamos a disputa pelas ocasiões de consumo e pelo
    orçamento do consumidor. Para o projeto, refrigerantes, águas, sucos e
-   outras bebidas sem álcool podem funcionar como substitutos da cerveja
-   sem álcool. Esse panorama ajuda a identificar quais necessidades a
+   outras bebidas podem disputar ocasiões de consumo com a cerveja,
+   conforme as preferências do público. Esse panorama ajuda a identificar quais necessidades a
    proposta deve atender para ser escolhida entre diferentes bebidas.
 
 2. Mercado de cervejas — concorrência dentro da categoria
@@ -34,25 +35,32 @@ divulgação, ampliação da oferta, experimentação e recompra.
    do consumidor dentro da mesma categoria. Para o projeto, esse recorte
    ajuda a compreender como preço, imagem de marca e presença nos pontos
    de venda influenciam a escolha e criam condições para ampliar a oferta
-   de cervejas sem álcool.
+   da Michelob Ultra.
 
-3. Cervejas sem álcool — concorrência direta no foco do projeto
+3. Cervejas com álcool e menor teor calórico — concorrência no foco do projeto
 
-   Arquivo: [Concorrentes_sem_alcool.md](Concorrentes_sem_alcool.md)
+   Arquivo: [Concorrentes_cervejas_baixa_caloria.md](Concorrentes_cervejas_baixa_caloria.md)
 
-   Apresenta o recorte específico das cervejas sem álcool, abordando
-   participação de mercado, composição das ofertas, posicionamento,
-   comunicação e públicos e ocasiões de consumo associados ao segmento.
+   Apresenta o recorte das cervejas com álcool e menor teor calórico,
+   abordando atributos dos produtos, posicionamento, comunicação,
+   experimentação e diferenciação entre marcas. Inclui uma comparação
+   de calorias por volume e discute o alcance dos dados de mercado disponíveis.
 
    Neste nível, analisamos a disputa entre produtos que atendem à procura
-   pela experiência de consumir cerveja sem álcool. Para o projeto, esse
+   por cerveja com álcool e atenção às calorias, distinguindo a concorrência
+   externa das alternativas dentro do portfólio da Ambev. Para o projeto, esse
    recorte ajuda a identificar oportunidades de diferenciação e a orientar
    propostas de divulgação e ampliação da oferta, considerando os fatores
    que podem favorecer a experimentação e a compra recorrente.
 
-A sequência sugerida é bebidas, cervejas e cervejas sem álcool. Os dois
+A sequência sugerida é bebidas, cervejas e cervejas de menor teor calórico. Os dois
 primeiros níveis contextualizam o negócio; o terceiro orienta a seleção
 dos concorrentes e a fundamentação das ações propostas para o MVP.
+
+Como leitura complementar, [Concorrentes_sem_alcool.md](Concorrentes_sem_alcool.md)
+reúne a análise desenvolvida para o recorte anterior. Ela permite examinar
+uma categoria adjacente, cuja proposta de ausência de álcool difere da
+escolha de manter a cerveja com álcool e reduzir as calorias por porção.
 
 Os arquivos reúnem notas preliminares de pesquisa. Percentuais, datas,
 atributos de produtos e afirmações de liderança precisam estar associados
