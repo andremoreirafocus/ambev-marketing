@@ -2,10 +2,13 @@
 """Gera NewBusinessCanvas.html a partir de BusinessCanvas.md, sem dependências.
 
 Uso: python3 gerar_business_canvas.py
+Outra versão: python3 gerar_business_canvas.py --entrada BusinessCanvas_MichelobUltra.md
+Com --entrada, a saída padrão usa o mesmo nome e extensão .html; --saida permite outro nome.
 Os caminhos são relativos à pasta deste script, independentemente do terminal.
 Edite os textos e listas do Markdown, preservando os títulos dos nove blocos.
 O HTML original não é necessário durante a geração.
 """
+import argparse
 from html import escape
 from pathlib import Path
 import re
@@ -32,7 +35,8 @@ def inline(text):
     """Escapa HTML e permite apenas ênfase simples do Markdown."""
     text = escape(text)
     text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
-    return re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<em>\1</em>", text)
+    text = re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<em>\1</em>", text)
+    return re.sub(r"\[([^\]]+)\]\(([A-Za-z0-9_.-]+\.(?:md|html|png|svg))\)", r'<a href="\2">\1</a>', text)
 
 
 def render_body(lines):
@@ -67,7 +71,7 @@ def render_body(lines):
     return "".join(parts)
 
 
-def generate(markdown):
+def generate(markdown, source_name="BusinessCanvas.md"):
     title, intro, sections = None, [], {}
     current = intro
     for line in markdown.splitlines():
@@ -110,19 +114,29 @@ def generate(markdown):
         '<body><main class="page"><header><h1><strong>BUSINESS CANVAS</strong> / BASE METODOLÓGICA</h1>'
         '<p>' + inline(title) + '</p>' + subtitle + '</header>'
         '<div class="canvas">' + blocks + '</div><footer>' + context + extra
-        + '<p>Detalhamento e hipóteses: <a href="BusinessCanvas.md">BusinessCanvas.md</a>'
+        + '<p>Detalhamento e hipóteses: <a href="' + escape(source_name, quote=True) + '">' + escape(source_name) + '</a>'
         ' · Estrutura de referência: <a href="BusinessCanvas.png">BusinessCanvas.png</a></p>'
         '</footer></main></body></html>\n'
     )
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Gera um Canvas HTML a partir de Markdown.")
+    parser.add_argument("--entrada", type=Path, default=SOURCE)
+    parser.add_argument("--saida", type=Path)
+    args = parser.parse_args()
+    source = (BASE / args.entrada).resolve()
+    output = (BASE / args.saida).resolve() if args.saida else (OUTPUT if source == SOURCE else source.with_suffix(".html"))
+    if output == source:
+        parser.error("A saída deve ser diferente da entrada.")
+    if output.parent != source.parent:
+        parser.error("Mantenha o HTML na mesma pasta do Markdown para preservar os links relativos.")
     try:
-        html = generate(SOURCE.read_text(encoding="utf-8"))
-        OUTPUT.write_text(html, encoding="utf-8")
+        html = generate(source.read_text(encoding="utf-8"), source.name)
+        output.write_text(html, encoding="utf-8")
     except (OSError, ValueError) as error:
         raise SystemExit("Erro ao gerar Canvas: " + str(error)) from error
-    print("HTML gerado: " + str(OUTPUT))
+    print("HTML gerado: " + str(output))
 
 
 if __name__ == "__main__":
