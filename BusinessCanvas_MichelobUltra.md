@@ -32,7 +32,7 @@ execução na empresa. Versão de 10/09/2026.
 
 ## Proposta de Valor
 
-- Para adultos que já consomem cerveja: uma opção com álcool e menor teor calórico, ligada a seus interesses por uma rotina ativa e momentos de lazer.
+- Para adultos que já consomem cerveja e buscam uma opção com menor teor calórico, motivados pelo desejo de uma vida ativa 
 - Tornar a escolha concreta: informação clara sobre calorias e porção, oportunidade de conhecer o sabor e facilidade de compra.
 - Para estabelecimentos: atender à procura por cervejas de menor teor calórico, com apoio à exposição, experimentação e reposição.
 
