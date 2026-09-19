@@ -15,7 +15,7 @@ O objetivo é ampliar sua base no Brasil para adultos que não se definem pela p
 | **1. Capa** | Usar o campo “Tema” para declarar o assunto do trabalho de forma direta: ampliação da base de consumidores da Michelob Ultra. |
 | **2. Apresentação da marca e do negócio** | Manter a apresentação da Michelob Ultra e suas credenciais atuais. Reescrever o desafio e o direcionamento para deixar claro que o projeto busca alcançar adultos fora do núcleo esportivo atual. |
 | **3. Contexto de mercado** | Usar os dados para sustentar que a busca por escolhas mais leves alcança um público amplo. A oportunidade deve ser apresentada como expansão de base, e não como extensão da comunicação esportiva. |
-| **4. Problema de negócio** | Definir o problema como a dificuldade de tornar a marca relevante para quem busca leveza e socialização, mas não se reconhece na linguagem de desempenho esportivo. Manter estigma de sabor, conhecimento limitado e obstáculos no trade. |
+| **4. Problema de negócio** | Definir o problema como a dificuldade de tornar a marca relevante para quem busca leveza e socialização, mas não se reconhece na linguagem de desempenho esportivo. Manter estigma de sabor, conhecimento limitado e obstáculos nos canais de venda. |
 | **5. Estratégia de solução** | Organizar a estratégia para converter credenciais de leveza em presença, experimentação e compra entre novos consumidores. Esporte deve funcionar como uma referência complementar, e não como o centro das ativações e do relacionamento. |
 | **6. Resultados pretendidos** | Medir a entrada em uma nova base de consumidores e sua recorrência, além da experimentação, disponibilidade e vendas. |
 | **7. Concorrentes** | Comparar Amstel Ultra e Heineken Ultimate pela disputa do consumidor que busca uma cerveja com álcool e menor teor calórico em situações sociais comuns, não somente por suas associações esportivas. |
@@ -104,7 +104,7 @@ As sugestões abaixo detalham como executar as revisões descritas acima. Elas n
 >
 > O projeto deve transformar a leveza da Michelob Ultra em uma escolha relevante para mais pessoas e mais contextos de convivência. Almoços, happy hours, encontros casuais, churrascos, festivais e futebol são pontos de contato com esse novo público, e não substitutos da presença já existente da marca em outras situações.
 
-**Acrescentar, em “PRINCIPAIS LIMITADORES DE NEGÓCIO”, o item:**
+**Inserir como primeiro item de “PRINCIPAIS LIMITADORES DE NEGÓCIO”:**
 
 > • Associação concentrada no desempenho esportivo:
 >
@@ -122,7 +122,7 @@ As sugestões abaixo detalham como executar as revisões descritas acima. Elas n
 
 > • Onda 1 (Degustação): degustação guiada em bares, eventos gastronômicos, festivais e pontos de venda.
 >
-> • Onda 2 (Trade): ponta de gôndola, geladeiras e presença destacada em grandes redes, empórios, bares e restaurantes.
+> • Onda 2 (Disponibilidade e visibilidade nos canais de venda): ponta de gôndola, geladeiras e presença destacada em grandes redes, empórios, bares e restaurantes.
 >
 > • Onda 3 (Ocasiões): campanhas voltadas a almoços, happy hours, encontros casuais, churrascos e eventos de entretenimento.
 >
@@ -130,11 +130,11 @@ As sugestões abaixo detalham como executar as revisões descritas acima. Elas n
 
 **Substituir a “MATRIZ DE MÍDIAS POR PÚBLICO” por:**
 
-> • Adultos de 28 a 43 anos: Instagram, podcasts, CRM no Zé Delivery, bares, restaurantes e pontos de venda próximos a áreas de convivência.
+> • Millennials (70%): Instagram, podcasts, CRM no Zé Delivery, bares, restaurantes e pontos de venda próximos a áreas de convivência.
 >
-> • Adultos de 18 a 27 anos: TikTok, festivais, criadores de conteúdo e ativações em eventos sociais.
+> • Geração Z (20%): TikTok, festivais, criadores de conteúdo e ativações em eventos sociais.
 >
-> • Adultos de 44 a 59 anos: ponto de venda físico, empórios, supermercados, bares e comunicação próxima a centros empresariais.
+> • Geração X (10%): ponto de venda físico, empórios, supermercados, bares e comunicação próxima a centros empresariais.
 
 ### Slide 6 — Resultados pretendidos
 
@@ -144,7 +144,16 @@ As sugestões abaixo detalham como executar as revisões descritas acima. Elas n
 >
 > Ampliar o reconhecimento da Michelob Ultra entre adultos que valorizam leveza e socialização, inclusive entre aqueles que não se identificam com o universo esportivo.
 >
-> • Métricas-chave: evolução do reconhecimento qualificado da marca e proporção de consumidores que associam Michelob Ultra a ocasiões sociais além do esporte.
+> • Métricas-chave:
+>
+> 1. Taxa de engajamento nas mídias sociais.
+>
+> 2. Alcance e frequência da comunicação no novo público.
+>
+> 3. Evolução do conhecimento e da associação da Michelob Ultra a leveza, sabor e situações de socialização além do esporte.
+>
+> • Instrumentos: relatórios das mídias sociais e dos demais canais digitais utilizados; pesquisa breve antes e depois da campanha, divulgada digitalmente e por QR code em degustações, bares e eventos.
+>
 
 **Substituir o item 2 por:**
 
@@ -152,19 +161,55 @@ As sugestões abaixo detalham como executar as revisões descritas acima. Elas n
 >
 > Inserir a Michelob Ultra em almoços, happy hours, encontros casuais, churrascos, festivais e ocasiões ligadas ao futebol, atraindo adultos que buscam uma cerveja premium leve para socializar.
 >
-> • Métricas-chave: taxa de experimentação, participação de novos compradores e frequência de consumo nas ocasiões priorizadas.
+> • Métricas-chave:
+>
+> 1. Taxa de experimentação nas ativações e nos pontos de venda priorizados.
+>
+> 2. Participação de novos compradores entre os consumidores identificados nas plataformas de entrega e de relacionamento.
+>
+> 3. Frequência de compra nas ocasiões priorizadas.
+>
+> • Instrumentos: QR codes e cupons distribuídos em degustações e ativações; relatórios de resgate; dados de compra das plataformas de entrega e de relacionamento; pesquisa breve após a ação.
 
-**Substituir, no item 3, “pontos de lifestyle” por “pontos associados a ocasiões sociais e de convivência”.**
+**Substituir o item 3 por:**
 
-**Acrescentar, no item 4, a métrica:**
+> 3. AMPLIAÇÃO DA DISPONIBILIDADE E PRESENÇA
+>
+> Expandir a presença em supermercados, bares, restaurantes, entrega e pontos associados a ocasiões sociais e de convivência, reduzindo as barreiras entre intenção e compra.
+>
+> • Métricas-chave:
+>
+> 1. Número de pontos de venda, bares, restaurantes e canais de entrega com Michelob Ultra disponível, por região.
+>
+> 2. Percentual dos pontos de venda priorizados que mantêm o produto disponível e visível em geladeira, gôndola ou cardápio.
+>
+> 3. Cobertura da marca nos canais de entrega selecionados.
+>
+> • Instrumentos: relatórios de distribuidores e varejistas; auditorias periódicas nos pontos de venda; verificação de cardápios e catálogos das plataformas de entrega.
 
-> • Métrica complementar: proporção de novos compradores e de compras recorrentes obtidas fora de ativações esportivas.
+**Substituir o item 4 por:**
+
+> 4. GERAÇÃO DE CRESCIMENTO SUSTENTÁVEL
+>
+> Atrair novos consumidores, aumentar a frequência de compra e gerar vendas incrementais, transformando a experimentação em compra recorrente.
+>
+> • Métricas-chave:
+>
+> 1. Volume total de vendas e variação de vendas nas regiões e canais ativados.
+>
+> 2. Participação de novos compradores.
+>
+> 3. Taxa de recompra e intervalo médio entre compras.
+>
+> 4. Ciclo de reposição dos distribuidores.
+>
+> • Instrumentos: relatórios de vendas da companhia, distribuidores e varejistas; dados das plataformas de entrega e de relacionamento; comparação dos resultados antes e depois das ações nos canais e regiões ativados.
 
 ### Slide 7 — Análise de concorrentes
 
-**Incluir após o subtítulo do slide:**
+**Incluir, após o subtítulo do slide, a pergunta que orienta a comparação:**
 
-> Amstel Ultra e Heineken Ultimate foram selecionadas porque disputam a preferência de adultos que buscam uma cerveja com álcool e menor teor calórico para ocasiões sociais comuns, com diferentes níveis de reconhecimento, distribuição e proposta de marca.
+> Quem disputa a preferência de adultos que buscam uma cerveja com álcool e menor teor calórico para ocasiões sociais comuns, com diferentes níveis de reconhecimento, distribuição e proposta de marca?
 
 **Substituir a última frase da resposta Michelob por:**
 
@@ -188,7 +233,7 @@ As sugestões abaixo detalham como executar as revisões descritas acima. Elas n
 
 **Substituir “PARCEIROS-CHAVE” por:**
 
-> 1. Trade e varejo: supermercados, atacarejos, distribuidores, geladeiras e gôndolas.
+> 1. Canais de venda: supermercados, atacarejos, distribuidores, geladeiras e gôndolas.
 >
 > 2. Bares e restaurantes: estabelecimentos de almoço, happy hour e convivência social.
 >
@@ -204,11 +249,11 @@ As sugestões abaixo detalham como executar as revisões descritas acima. Elas n
 >
 > 2. Comunicação por ocasiões sociais em canais digitais, criadores de conteúdo e CRM.
 >
-> 3. Visibilidade e disponibilidade no trade, em supermercados, bares, restaurantes e entrega.
+> 3. Visibilidade e disponibilidade nos canais de venda, em supermercados, bares, restaurantes e entrega.
 
 **Substituir o item 4 de “RECURSOS-CHAVE” por:**
 
-> 4. Talentos: equipe de trade, ativações sociais e relacionamento digital.
+> 4. Talentos: equipe comercial, ativações sociais e relacionamento digital.
 
 **Substituir integralmente a “PROPOSTA DE VALOR” por:**
 
