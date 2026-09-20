@@ -128,6 +128,18 @@ As sugestões abaixo detalham como executar as revisões descritas acima. Elas n
 >
 > • Onda 4 (Relacionamento): conteúdo digital, cupons e comunicação no CRM para estimular experimentação e recompra nas novas ocasiões.
 
+**Manter o título “DADOS DE APRENDIZADO & CURIOSIDADES” e substituir o conteúdo do bloco por:**
+
+> • Pesquisa brasileira da FGV, com 581 respondentes, identificou baixo teor de carboidratos e baixa caloria como os atributos mais relevantes para a percepção de uma cerveja mais leve.
+>
+> • No mesmo estudo, a afirmação de que um comercial com pessoas praticando exercícios torna uma cerveja mais saudável teve média de 2,95 em uma escala de 1 a 7.
+>
+> • Nos grupos de discussão, o termo “light” gerou desconfiança em parte dos participantes; a leveza precisa ser acompanhada de prova de sabor.
+>
+> • Aprendizado para a estratégia: comunicar atributos concretos do produto e comprovar sabor por degustação; manter o esporte como credencial complementar, não como argumento central de aquisição.
+>
+> *Fonte: FGV — “Cerveja e Saudabilidade: Como a percepção de saudabilidade de uma cerveja afeta a intenção de compra do consumidor”.*
+
 **Substituir a “MATRIZ DE MÍDIAS POR PÚBLICO” por:**
 
 > • Millennials (70%): Instagram, podcasts, CRM no Zé Delivery, bares, restaurantes e pontos de venda próximos a áreas de convivência.
@@ -251,15 +263,17 @@ As sugestões abaixo detalham como executar as revisões descritas acima. Elas n
 >
 > 3. Visibilidade e disponibilidade nos canais de venda, em supermercados, bares, restaurantes e entrega.
 
-**Substituir o item 4 de “RECURSOS-CHAVE” por:**
+**Substituir os itens 3 e 4 de “RECURSOS-CHAVE” por:**
 
+> 3. Dados e tecnologia: BEES, Zé Delivery, iFood e CRM.
+>
 > 4. Talentos: equipe comercial, ativações sociais e relacionamento digital.
 
 **Substituir integralmente a “PROPOSTA DE VALOR” por:**
 
 > Levar a Michelob Ultra a novas situações de convivência ao oferecer uma cerveja premium leve e refrescante, com baixas calorias e baixo teor de carboidratos.
 >
-> Uma escolha para adultos que desejam socializar com uma cerveja premium leve em almoços, happy hours, encontros casuais, churrascos, festivais, futebol e outras ocasiões do cotidiano.
+> Uma escolha para adultos que valorizam leveza e atributos nutricionais, sem abrir mão do sabor, em almoços, happy hours, encontros casuais, churrascos, festivais, futebol e outras ocasiões do cotidiano.
 
 **Substituir “RELACIONAMENTO” por:**
 
@@ -283,8 +297,40 @@ As sugestões abaixo detalham como executar as revisões descritas acima. Elas n
 
 **Substituir integralmente a “SEGMENTAÇÃO” por:**
 
-> • PRINCIPAL (70%) | Adultos de 28 a 43 anos: consumidores que buscam uma cerveja premium leve para socializar em almoços, happy hours, encontros casuais e momentos de entretenimento.
+> • PRINCIPAL — 60% do investimento inicial | Millennials (28 a 43 anos): consumidores que buscam uma cerveja premium leve para socializar em almoços, happy hours, encontros casuais e momentos de entretenimento.
 >
-> • ESTRATÉGICO (20%) | Adultos de 18 a 27 anos: consumidores que valorizam experiências sociais, festivais, estética de marca e escolhas mais leves.
+> • ESTRATÉGICO — 20% do investimento inicial | Geração Z (18 a 27 anos): consumidores que valorizam experiências sociais, festivais, estética de marca e escolhas mais leves.
 >
-> • COMPLEMENTAR (10%) | Adultos de 44 a 59 anos: consumidores que valorizam controle calórico, conveniência e disponibilidade no ponto de venda.
+> • COMPLEMENTAR — 20% do investimento inicial | Geração X (44 a 59 anos): consumidores que valorizam controle calórico, leveza, conveniência e disponibilidade no ponto de venda, mas precisam perceber que esses atributos não comprometem o sabor.
+
+**Incluir, após a segmentação, as observações e fontes que orientam a distribuição inicial do investimento:**
+
+> • [Rascasse — Michelob Ultra](https://rascasse.com/explore/us/michelob-ultra-149491): o perfil estimado da audiência da marca nos Estados Unidos tem idade média de 36 anos. O dado orienta a priorização de Millennials, mas não deve ser tratado como retrato do mercado brasileiro.
+>
+> • [Adnews — Zé Delivery oferece até 40% off no mês da cerveja](https://adnews.com.br/post/ze-delivery-oferece-ate-40-off-no-mes-da-cerveja): o Zé Delivery informa que 80% de seus usuários ativos mensais são Millennials e Geração Z. O dado orienta a concentração de investimento digital e de entrega nesses dois segmentos.
+>
+> • [FGV — Cerveja e Saudabilidade](https://conferencias.fgv.br/clav/article/download/598/354/1443): a pesquisa reforça que baixo teor de carboidratos e baixa caloria ajudam a percepção de leveza, enquanto sabor permanece uma condição para a escolha. Esse aprendizado sustenta, em especial, a abordagem da Geração X: controle calórico como motivação para considerar a marca e prova de sabor como condição para conversão.
+>
+> • Os percentuais representam uma distribuição inicial de investimento do MVP e devem ser revistos com base em novos compradores, frequência de compra, recompra e vendas por segmento.
+
+**Substituir “ESTRUTURA DE CUSTO” por:**
+
+> • Custos de produção, matérias-primas, logística refrigerada e impostos.
+>
+> • Investimentos em comunicação, mídia digital e criadores de conteúdo.
+>
+> • Degustações, materiais de ponto de venda, geladeiras e ativações nos canais de venda.
+>
+> • Parcerias com bares, restaurantes, eventos, plataformas de entrega e CRM.
+>
+> • Equipe comercial, relacionamento digital e acompanhamento de dados.
+
+**Substituir “FONTES DE RECEITAS” por:**
+
+> • Vendas de Michelob Ultra nos canais de venda priorizados.
+>
+> • Vendas incrementais geradas por novos consumidores.
+>
+> • Vendas recorrentes decorrentes do aumento da frequência de compra.
+>
+> • Vendas incrementais em novas situações sociais de consumo.
